@@ -1,3 +1,3 @@
 ## ```Deploy```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ownsanzzz/sanzbotzv1/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ownsanzzz/sanzbotzv2/)
